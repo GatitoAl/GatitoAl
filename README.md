@@ -5,7 +5,7 @@ Soy egresado de la carrera de ingeniería informática en la Universidad Central
 Actualmente me encuentro trabajando como freelance, me he dedicado a especializarme en el desarrollo de aplicaciones web y móviles colaborando con empresas de diferentes partes. Mi github se encuentra vacío ya que estos últimos dos años trabajé en una empresa la cual utilizaba GitLab.
 
 
-Me gusta mantenerme siempre activo practicando deportes de aventura como Trail Running, llegando a competir en la carreras más importates de mi país en distancias superiores a los 50km.
+Me gusta mantenerme siempre activo practicando deportes de aventura como Trail Running, llegando a competir en las carreras más importates de mi país en distancias superiores a los 50km.
 
 
 
