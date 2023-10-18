@@ -9,6 +9,7 @@ Me gusta mantenerme siempre activo practicando deportes de aventura como Trail R
 
 
 
+
 ## Tecnologías 🛠 :
 [![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 [![HTML5](https://img.shields.io/badge/Html5-DA4A1F?style=for-the-badge&logo=Html5&logoColor=white&labelColor=101010)]()
