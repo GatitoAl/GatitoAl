@@ -33,6 +33,11 @@ Me gusta mantenerme siempre activo practicando deportes de aventura como Trail R
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![PostgresSql](https://img.shields.io/badge/postgres-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
 </br>
+[![Postman](https://img.shields.io/badge/Postman-EF5B25?style=for-the-badge&logo=postman&logoColor=white&labelColor=101010)]()
+[![Studio 3T](https://img.shields.io/badge/studio3t-4DAB3C?style=for-the-badge&logo=studio3t&logoColor=white&labelColor=101010)]()
+[![Trello](https://img.shields.io/badge/Trello-307DB0?style=for-the-badge&logo=trello&logoColor=white&labelColor=101010)]()
+[![Notion](https://img.shields.io/badge/Notion-393B3D?style=for-the-badge&logo=notion&logoColor=white&labelColor=101010)]()
+</br>
 
 Y alguna más...
 
