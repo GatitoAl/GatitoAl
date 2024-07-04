@@ -1,6 +1,6 @@
 # ! Hola, mi nombre es Richard Aldana <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
-### Freelance frontend, iOS & Android delevoper
-Soy egresado de la carrera de ingeniería informática en la Universidad Central del Ecuador
+### Freelance Full Stack, iOS & Android delevoper
+Soy Ingeniero informático en la Universidad Central del Ecuador
 
 Actualmente me encuentro trabajando como freelance, me he dedicado a especializarme en el desarrollo de aplicaciones web y móviles colaborando con empresas de diferentes partes. Mi github se encuentra vacío ya que estos últimos dos años trabajé en una empresa la cual utilizaba GitLab.
 
