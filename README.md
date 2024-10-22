@@ -1,13 +1,8 @@
 # ! Hola, mi nombre es Richard Aldana <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
-### Freelance Full Stack, iOS & Android delevoper
-Soy Ingeniero informático en la Universidad Central del Ecuador
+### Freelance Full Stack
+I'm Computer Engineering – UCE
 
-Actualmente me encuentro trabajando como freelance, me he dedicado a especializarme en el desarrollo de aplicaciones web y móviles colaborando con empresas de diferentes partes. Mi github se encuentra vacío ya que estos últimos dos años trabajé en una empresa la cual utilizaba GitLab.
-
-
-Me gusta mantenerme siempre activo practicando deportes de aventura como Trail Running, llegando a competir en las carreras más importates de mi país en distancias superiores a los 50km.
-
-
+I'm a web developer with 4 years of experience, but I've mostly worked on frontend projects using React, Angular, Cue, TypeScript, and Vanilla JS. Jest is used for unit testing. I've used Express, Node for the backend, as well as DBs like MongoDB and PostgreSQL, and I also participate a lot in ux/ui redesign processes.
 
 
 ## Tecnologías 🛠 :
@@ -15,14 +10,6 @@ Me gusta mantenerme siempre activo practicando deportes de aventura como Trail R
 [![HTML5](https://img.shields.io/badge/Html5-DA4A1F?style=for-the-badge&logo=Html5&logoColor=white&labelColor=101010)]()
 [![Css3](https://img.shields.io/badge/Css3-203B9E?style=for-the-badge&logo=Css3&logoColor=white&labelColor=101010)]()
 [![Sass](https://img.shields.io/badge/Sasst-FF33D4?style=for-the-badge&logo=Sass&logoColor=white&labelColor=101010)]()
-</br>
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
-[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
-[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
-</br>
-[![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
-[![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
-[![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
 </br>
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
