@@ -25,7 +25,6 @@ I'm a web developer with 4 years of experience, but I've mostly worked on fronte
 [![Trello](https://img.shields.io/badge/Trello-307DB0?style=for-the-badge&logo=trello&logoColor=white&labelColor=101010)]()
 [![Notion](https://img.shields.io/badge/Notion-393B3D?style=for-the-badge&logo=notion&logoColor=white&labelColor=101010)]()
 </br>
-
 Y alguna más...
 
 ## Encuéntrame en:
