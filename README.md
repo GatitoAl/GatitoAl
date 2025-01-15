@@ -9,7 +9,7 @@ I'm a web developer with 4 years of experience, but I've mostly worked on fronte
 [![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 [![HTML5](https://img.shields.io/badge/Html5-DA4A1F?style=for-the-badge&logo=Html5&logoColor=white&labelColor=101010)]()
 [![Css3](https://img.shields.io/badge/Css3-203B9E?style=for-the-badge&logo=Css3&logoColor=white&labelColor=101010)]()
-[![Sass](https://img.shields.io/badge/Sasst-FF33D4?style=for-the-badge&logo=Sass&logoColor=white&labelColor=101010)]()
+[![Sass](https://img.shields.io/badge/Sass-FF33D4?style=for-the-badge&logo=Sass&logoColor=white&labelColor=101010)]()
 </br>
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
