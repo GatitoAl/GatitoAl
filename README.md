@@ -23,7 +23,7 @@ I'm a web developer with 4 years of experience, but I've mostly worked on fronte
 [![Postman](https://img.shields.io/badge/Postman-EF5B25?style=for-the-badge&logo=postman&logoColor=white&labelColor=101010)]()
 [![Studio 3T](https://img.shields.io/badge/studio3t-4DAB3C?style=for-the-badge&logo=studio3t&logoColor=white&labelColor=101010)]()
 [![Trello](https://img.shields.io/badge/Trello-307DB0?style=for-the-badge&logo=trello&logoColor=white&labelColor=101010)]()
-[![Notion](https://img.shields.io/badge/Notion-393B3D?style=for-the-badge&logo=notion&logoColor=white&labelColor=101010)]()
+[![Slack](https://img.shields.io/badge/Slack-393B3D?style=for-the-badge&logo=slack&logoColor=white&labelColor=101010)]()
 </br>
 Y alguna más...
 
