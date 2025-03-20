@@ -2,7 +2,7 @@
 ### Freelance Full Stack
 I'm Computer Engineering – UCE
 
-I'm a web developer with 4 years of experience, but I've mostly worked on frontend projects using React, Angular, Cue, TypeScript, and Vanilla JS. Jest is used for unit testing. I've used Express, Node for the backend, as well as DBs like MongoDB and PostgreSQL, and I also participate a lot in ux/ui redesign processes.
+I'm a web developer with 4 years of experience, but I've mostly worked on frontend projects using React, Angular, Vue, TypeScript, and Vanilla JS. Jest is used for unit testing. I've used Express, Node for the backend, as well as DBs like MongoDB and PostgreSQL, and I also participate a lot in ux/ui redesign processes.
 
 
 ## Tecnologías 🛠 :
